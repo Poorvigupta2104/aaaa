@@ -1,1 +1,2 @@
 print("githubisfun")
+print("ayuiscool")
